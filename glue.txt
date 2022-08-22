@@ -1,4 +1,4 @@
-%number_of_workers
+%number_of_workers added 2
 %idle_timeout 5
 %iam_role arn:aws:iam::317334430810:role/test
 %region ap-south-1
